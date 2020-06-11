@@ -12,8 +12,12 @@ public class App
 			System.out.println("Welcome Mr Meher");
 		}
 	}
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+	
+	pulic void added(){
+		System.out.println("Welcome Mr Meher");
+	}	
+	 public static void main( String[] args )
+	 {
+	    System.out.println( "Hello World!" );
+	 }
 }
